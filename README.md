@@ -12,12 +12,12 @@ The Stopwatch App is a simple web application that allows users to measure time 
 7.While the stopwatch is running, you can click the "Lap" button to record lap times.
 8.The recorded lap times will be displayed below the stopwatch in a list format.
 **Features**
-Start: Begins the stopwatch and starts counting time from zero.
-Pause: Pauses the stopwatch at the current elapsed time.
-Reset: Stops the stopwatch and resets the timer display to "00:00:00."
-Lap: Records lap times while the stopwatch is running and displays them in a list below the timer.
+1.Start: Begins the stopwatch and starts counting time from zero.
+2.Pause: Pauses the stopwatch at the current elapsed time.
+3.Reset: Stops the stopwatch and resets the timer display to "00:00:00."
+4.Lap: Records lap times while the stopwatch is running and displays them in a list below the timer.
 Technologies Used
-HTML: Provides the structure and elements of the web application.
-CSS: Styles the visual elements and layout of the application.
-JavaScript: Implements the stopwatch functionalities and timing logic.
+1.HTML: Provides the structure and elements of the web application.
+2.CSS: Styles the visual elements and layout of the application.
+3.JavaScript: Implements the stopwatch functionalities and timing logic.
 
